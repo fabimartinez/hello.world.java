@@ -6,12 +6,13 @@
 package main;
 
 /**
- *
+ * Clase principal del proyecto.
  * @author Erick Fabricio Martínez Castellanos
  */
 public class Main {
 
     /**
+     * Inicio del programa.
      * @param args the command line arguments
      */
     public static void main(String[] args) {
